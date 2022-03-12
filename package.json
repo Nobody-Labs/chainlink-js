@@ -1,0 +1,18 @@
+{
+  "name": "chainlink-js",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Nobody-Labs",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@ethersproject/contracts": "^5.6.0",
+    "@ethersproject/providers": "^5.6.0"
+  },
+  "repository": "https://github.com/Nobody-Labs/chainlink-js",
+  "devDependencies": {
+    "@ethersproject/units": "^5.6.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

@@ -1,0 +1,192 @@
+[
+    {
+        "pair": "1inch-usd",
+        "decimals": 8,
+        "address": "0xFDF9EB5fafc11Efa65f6FD144898da39a7920Ae8\n"
+    },
+    {
+        "pair": "aave-usd",
+        "decimals": 8,
+        "address": "0x2b481Dc923Aa050E009113Dca8dcb0daB4B68cDF\n"
+    },
+    {
+        "pair": "alpha-usd",
+        "decimals": 8,
+        "address": "0x7969b8018928F3d9faaE9AC71744ed2C1486536F\n"
+    },
+    {
+        "pair": "avax-usd",
+        "decimals": 8,
+        "address": "0x911e08A32A6b7671A80387F93147Ab29063DE9A2\n"
+    },
+    {
+        "pair": "bal-usd",
+        "decimals": 8,
+        "address": "0x1b723C855F7D2c2785F99486973271355e782d77\n"
+    },
+    {
+        "pair": "bnb-usd",
+        "decimals": 8,
+        "address": "0x6D42cc26756C34F26BEcDD9b30a279cE9Ea8296E\n"
+    },
+    {
+        "pair": "btc-usd",
+        "decimals": 8,
+        "address": "0x6C1d7e76EF7304a40e8456ce883BC56d3dEA3F7d\n"
+    },
+    {
+        "pair": "chf-usd",
+        "decimals": 8,
+        "address": "0xFb00261Af80ADb1629D3869E377ae1EEC7bE659F\n"
+    },
+    {
+        "pair": "comp-usd",
+        "decimals": 8,
+        "address": "0xBa95Bc8418Ebcdf8a690924E1d4aD5292139F2EA\n"
+    },
+    {
+        "pair": "cream-usd",
+        "decimals": 8,
+        "address": "0x3b681e9BF56eFe4b2a14196826230A5843fFF758\n"
+    },
+    {
+        "pair": "crv-usd",
+        "decimals": 8,
+        "address": "0xC77B83ac3Dd2a761073bD0f281f7b880B2DDDe18\n"
+    },
+    {
+        "pair": "dai-usd",
+        "decimals": 8,
+        "address": "0x678df3415fc31947dA4324eC63212874be5a82f8\n"
+    },
+    {
+        "pair": "doge-usd",
+        "decimals": 8,
+        "address": "0x824b4A1A0443609A2ADd94a700b770FA5bE31287\n"
+    },
+    {
+        "pair": "dot-usd",
+        "decimals": 8,
+        "address": "0x3c30c5c415B2410326297F0f65f5Cbb32f3aefCc\n"
+    },
+    {
+        "pair": "dpi-usd",
+        "decimals": 8,
+        "address": "0x53B1b13E7a5C0DE9A2BeFa1085Ec364BB27e439f\n"
+    },
+    {
+        "pair": "dxd-weth-tvl",
+        "decimals": 8,
+        "address": "0x558F366c49E08CAbecA8f33d6584Fb7AdB5bA54B\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0xa767f745331D267c7751297D982b050c93985627\n"
+    },
+    {
+        "pair": "eur-usd",
+        "decimals": 8,
+        "address": "0xab70BCB260073d036d1660201e9d5405F5829b7a\n"
+    },
+    {
+        "pair": "fox-usd",
+        "decimals": 8,
+        "address": "0x3190f6D277Fea03A082Eba20B136f95f0DCCb3dD\n"
+    },
+    {
+        "pair": "ftt-usd",
+        "decimals": 8,
+        "address": "0x0CaE8f5c10931f0Ce87Ed9BbB71391C6E93C2C26\n"
+    },
+    {
+        "pair": "gno-usd",
+        "decimals": 8,
+        "address": "0x22441d81416430A54336aB28765abd31a792Ad37\n"
+    },
+    {
+        "pair": "grt-usd",
+        "decimals": 8,
+        "address": "0xeBbd67a84e33791F1bcFde74CDc22a71e332e2F1\n"
+    },
+    {
+        "pair": "jpy-usd",
+        "decimals": 8,
+        "address": "0x2AfB993C670C01e9dA1550c58e8039C1D8b8A317\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0xed322A5ac55BAE091190dFf9066760b86751947B\n"
+    },
+    {
+        "pair": "mkr-usd",
+        "decimals": 8,
+        "address": "0x51e4024255d0cBd1F4C79AEe6BDB6565Df2C5d1b\n"
+    },
+    {
+        "pair": "perp-usd",
+        "decimals": 8,
+        "address": "0x76e76F7E73F3BD42E3c2b4282B50b36E78130B4A\n"
+    },
+    {
+        "pair": "ren-usd",
+        "decimals": 8,
+        "address": "0x27d4D36968a2BD1Cc3406D99cB1DF50561dBf2a4\n"
+    },
+    {
+        "pair": "rune-usd",
+        "decimals": 8,
+        "address": "0x93e3510d9AF4cBac3Ff0EeD3bddb0f52cCE0Ef15\n"
+    },
+    {
+        "pair": "snx-usd",
+        "decimals": 8,
+        "address": "0x3b84d6e6976D5826500572600eB44f9f1753827b\n"
+    },
+    {
+        "pair": "sol-usd",
+        "decimals": 8,
+        "address": "0xB7B7d008c49295A0FF6Eed6dF4Ad3052Fd39d5e6\n"
+    },
+    {
+        "pair": "stake-usd",
+        "decimals": 8,
+        "address": "0x55f4b2D20d447dB498bCCCde60Fa9a51a3df6D72\n"
+    },
+    {
+        "pair": "sushi-usd",
+        "decimals": 8,
+        "address": "0xC0a6Bf8d5D408B091D022C3C0653d4056D4B9c01\n"
+    },
+    {
+        "pair": "uma-usd",
+        "decimals": 8,
+        "address": "0xF826E3ff8c0481D2e58DB9d301936F94Cd4fa916\n"
+    },
+    {
+        "pair": "uni-usd",
+        "decimals": 8,
+        "address": "0xd98735d78266c62277Bb4dBf3e3bCdd3694782F4\n"
+    },
+    {
+        "pair": "usdc-usd",
+        "decimals": 8,
+        "address": "0x26C31ac71010aF62E6B486D1132E266D6298857D\n"
+    },
+    {
+        "pair": "xau-usd",
+        "decimals": 8,
+        "address": "0x4a5AB0F60d12a4420d36D3eD9A1F77d8c47EB94c\n"
+    },
+    {
+        "pair": "yfi-usd",
+        "decimals": 8,
+        "address": "0x14030d5a0C9e63D9606C6f2c8771Fc95b34b07e0\n"
+    },
+    {
+        "pair": "zil-usd",
+        "decimals": 8,
+        "address": "0x2997eBa3d9c2447c36107bB0F082b8c33566b49c"
+    }
+]

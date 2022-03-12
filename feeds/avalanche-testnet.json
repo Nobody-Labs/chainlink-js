@@ -1,0 +1,42 @@
+[
+    {
+        "pair": "avax-usd",
+        "decimals": 8,
+        "address": "0x5498BB86BC934c8D34FDA08E81D444153d0D06aD\n"
+    },
+    {
+        "pair": "btc-eth",
+        "decimals": 18,
+        "address": "0x378E78509a907B1Ec5c24d9f0243BD39f7A7b007\n"
+    },
+    {
+        "pair": "btc-usd",
+        "decimals": 8,
+        "address": "0x31CF013A08c6Ac228C94551d535d5BAfE19c602a\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0x86d67c3D38D2bCeE722E601025C25a575021c6EA\n"
+    },
+    {
+        "pair": "link-avax",
+        "decimals": 18,
+        "address": "0x79c91fd4F8b3DaBEe17d286EB11cEE4D83521775\n"
+    },
+    {
+        "pair": "link-eth",
+        "decimals": 18,
+        "address": "0xf4060f80f295b34e0C2471461ba43745Aeb186d6\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0x34C4c526902d88a3Aa98DB8a9b802603EB1E3470\n"
+    },
+    {
+        "pair": "usdt-usd",
+        "decimals": 8,
+        "address": "0x7898AcCC83587C3C55116c5230C17a6Cd9C71bad"
+    }
+]

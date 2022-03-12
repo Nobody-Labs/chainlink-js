@@ -1,0 +1,167 @@
+[
+    {
+        "pair": "aave-usd",
+        "decimals": 8,
+        "address": "0xaD1d5344AaDE45F43E596773Bcc4c423EAbdD034\n"
+    },
+    {
+        "pair": "aud-usd",
+        "decimals": 8,
+        "address": "0x9854e9a850e7C354c1de177eA953a6b1fba8Fc22\n"
+    },
+    {
+        "pair": "avax-usd",
+        "decimals": 8,
+        "address": "0x8bf61728eeDCE2F32c456454d87B5d6eD6150208\n"
+    },
+    {
+        "pair": "btc-eth",
+        "decimals": 18,
+        "address": "0xc5a90A6d7e4Af242dA238FFe279e9f2BA0c64B2e\n"
+    },
+    {
+        "pair": "btc-usd",
+        "decimals": 8,
+        "address": "0x6ce185860a4963106506C203335A2910413708e9\n"
+    },
+    {
+        "pair": "chf-usd",
+        "decimals": 8,
+        "address": "0xe32AccC8c4eC03F6E75bd3621BfC9Fbb234E1FC3\n"
+    },
+    {
+        "pair": "cny-usd",
+        "decimals": 8,
+        "address": "0xcC3370Bde6AFE51e1205a5038947b9836371eCCb\n"
+    },
+    {
+        "pair": "crv-usd",
+        "decimals": 8,
+        "address": "0xaebDA2c976cfd1eE1977Eac079B4382acb849325\n"
+    },
+    {
+        "pair": "dai-usd",
+        "decimals": 8,
+        "address": "0xc5C8E77B397E531B8EC06BFb0048328B30E9eCfB\n"
+    },
+    {
+        "pair": "dodo-usd",
+        "decimals": 8,
+        "address": "0xA33a06c119EC08F92735F9ccA37e07Af08C4f281\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612\n"
+    },
+    {
+        "pair": "eur-usd",
+        "decimals": 8,
+        "address": "0xA14d53bC1F1c0F31B4aA3BD109344E5009051a84\n"
+    },
+    {
+        "pair": "fei-usd",
+        "decimals": 8,
+        "address": "0x7c4720086E6feb755dab542c46DE4f728E88304d\n"
+    },
+    {
+        "pair": "frax-usd",
+        "decimals": 8,
+        "address": "0x0809E3d38d1B4214958faf06D8b1B1a2b73f2ab8\n"
+    },
+    {
+        "pair": "fxs-usd",
+        "decimals": 8,
+        "address": "0x36a121448D74Fa81450c992A1a44B9b7377CD3a5\n"
+    },
+    {
+        "pair": "gbp-usd",
+        "decimals": 8,
+        "address": "0x9C4424Fd84C6661F97D8d6b3fc3C1aAc2BeDd137\n"
+    },
+    {
+        "pair": "krw-usd",
+        "decimals": 8,
+        "address": "0x85bb02E0Ae286600d1c68Bb6Ce22Cc998d411916\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0x86E53CF1B870786351Da77A57575e79CB55812CB\n"
+    },
+    {
+        "pair": "luna-usd",
+        "decimals": 8,
+        "address": "0x81a065E74943A8B6380C23f8b440Aea1Dc3530cA\n"
+    },
+    {
+        "pair": "mim-usd",
+        "decimals": 8,
+        "address": "0x87121F6c9A9F6E90E59591E4Cf4804873f54A95b\n"
+    },
+    {
+        "pair": "ohmv2-usd",
+        "decimals": 8,
+        "address": "0x761aaeBf021F19F198D325D7979965D0c7C9e53b\n"
+    },
+    {
+        "pair": "php-usd",
+        "decimals": 8,
+        "address": "0xfF82AAF635645fD0bcc7b619C3F28004cDb58574\n"
+    },
+    {
+        "pair": "sgd-usd",
+        "decimals": 8,
+        "address": "0xF0d38324d1F86a176aC727A4b0c43c9F9d9c5EB1\n"
+    },
+    {
+        "pair": "sol-usd",
+        "decimals": 8,
+        "address": "0x24ceA4b8ce57cdA5058b924B9B9987992450590c\n"
+    },
+    {
+        "pair": "spell-usd",
+        "decimals": 8,
+        "address": "0x383b3624478124697BEF675F07cA37570b73992f\n"
+    },
+    {
+        "pair": "steth-usd",
+        "decimals": 8,
+        "address": "0x07C5b924399cc23c24a95c8743DE4006a32b7f2a\n"
+    },
+    {
+        "pair": "sushi-usd",
+        "decimals": 8,
+        "address": "0xb2A8BA74cbca38508BA1632761b56C897060147C\n"
+    },
+    {
+        "pair": "toke-usd",
+        "decimals": 8,
+        "address": "0x4CfC4AB701cF5E45EF12F50458dA6bB279D7ed5B\n"
+    },
+    {
+        "pair": "tribe-usd",
+        "decimals": 8,
+        "address": "0x7a96B01aC02A2F3303C27cbFc5Cb3d3abc36d041\n"
+    },
+    {
+        "pair": "uni-usd",
+        "decimals": 8,
+        "address": "0x9C917083fDb403ab5ADbEC26Ee294f6EcAda2720\n"
+    },
+    {
+        "pair": "usdc-usd",
+        "decimals": 8,
+        "address": "0x50834F3163758fcC1Df9973b6e91f0F0F0434aD3\n"
+    },
+    {
+        "pair": "usdt-usd",
+        "decimals": 8,
+        "address": "0x3f3f5dF88dC9F13eac63DF89EC16ef6e7E25DdE7\n"
+    },
+    {
+        "pair": "yfi-usd",
+        "decimals": 8,
+        "address": "0x745Ab5b69E01E2BE1104Ca84937Bb71f96f5fB21\n"
+    }
+]

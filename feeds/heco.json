@@ -1,0 +1,152 @@
+[
+    {
+        "pair": "aave-usd",
+        "decimals": 8,
+        "address": "0x8a054991B803F6a6958Ba9695Cc8D366C8a30a69\n"
+    },
+    {
+        "pair": "ada-usd",
+        "decimals": 8,
+        "address": "0x397801Db440f7268d5468e6dDc76507627A27a59\n"
+    },
+    {
+        "pair": "bags-usd",
+        "decimals": 8,
+        "address": "0x9A1b55Ff9b577aFF279F3cB0175Ab3De87bA38e5\n"
+    },
+    {
+        "pair": "bch-usd",
+        "decimals": 8,
+        "address": "0x98b666722D9Def641D8D4836c7cA3c38317B6B98\n"
+    },
+    {
+        "pair": "bnb-usd",
+        "decimals": 8,
+        "address": "0xe94FA3B5fA90Bd85590F05b25AF791b6810a6c47\n"
+    },
+    {
+        "pair": "btc-usd",
+        "decimals": 8,
+        "address": "0xD5c40f5144848Bd4EF08a9605d860e727b991513\n"
+    },
+    {
+        "pair": "cfx-usd",
+        "decimals": 8,
+        "address": "0x4BC4C22ccF9e8BC694eEdcE29b5cb3B7eEB6bA5F\n"
+    },
+    {
+        "pair": "comp-usd",
+        "decimals": 8,
+        "address": "0x13ae1F09038d273d5F094D95fFeA122Ef2190De4\n"
+    },
+    {
+        "pair": "dai-usd",
+        "decimals": 8,
+        "address": "0xDeFc2043306A979B1B149cDf6B9D09c9823b96f6\n"
+    },
+    {
+        "pair": "doge-usd",
+        "decimals": 8,
+        "address": "0x39670B380aF5Ce12De291fD271E1931d7f6336F6\n"
+    },
+    {
+        "pair": "dot-usd",
+        "decimals": 8,
+        "address": "0x0A7b23E981F16a429C8710C82f5fa5d01453A259\n"
+    },
+    {
+        "pair": "eos-usd",
+        "decimals": 8,
+        "address": "0x09925e5e71023f60351e605A1330B4f6DD11CF37\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0x5Fa530068e0F5046479c588775c157930EF0Dff0\n"
+    },
+    {
+        "pair": "eur-usd",
+        "decimals": 8,
+        "address": "0x9bF18dd428F39453248B3Fa5723fabC4f0df0b6f\n"
+    },
+    {
+        "pair": "fil-usd",
+        "decimals": 8,
+        "address": "0x4d8869eCF1F8C78C0bd2439c4BcAE50AC8420bC4\n"
+    },
+    {
+        "pair": "hpt-usd",
+        "decimals": 8,
+        "address": "0x77D89A33F7226C3BF5EFced5BbC40624281843bF\n"
+    },
+    {
+        "pair": "ht-usd",
+        "decimals": 8,
+        "address": "0x8EC213E7191488C7873cEC6daC8e97cdbAdb7B35\n"
+    },
+    {
+        "pair": "husd-usd",
+        "decimals": 8,
+        "address": "0x45f86CA2A8BC9EBD757225B19a1A0D7051bE46Db\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0xA350dff2011bBa5b262Ff5EF2Cf05196207C72Ba\n"
+    },
+    {
+        "pair": "ltc-usd",
+        "decimals": 8,
+        "address": "0x87Ea38c9F24264Ec1Fff41B04ec94a97Caf99941\n"
+    },
+    {
+        "pair": "mdx-usd",
+        "decimals": 8,
+        "address": "0xaC4600b8F42317eAF056Cceb06cFf987c294840B\n"
+    },
+    {
+        "pair": "mkr-usd",
+        "decimals": 8,
+        "address": "0xC8133750a9A12Cb7A8DCa3417369769d188A995B\n"
+    },
+    {
+        "pair": "snx-usd",
+        "decimals": 8,
+        "address": "0x1797a410485FeD6B05d5b39A475ddB9C33898ee8\n"
+    },
+    {
+        "pair": "uni-usd",
+        "decimals": 8,
+        "address": "0x1E22E1eD4a96B4529D78cd4Bac55313809deF016\n"
+    },
+    {
+        "pair": "usdt-usd",
+        "decimals": 8,
+        "address": "0xF0D3585D8dC9f1D1D1a7dd02b48C2630d9DD78eD\n"
+    },
+    {
+        "pair": "wti-usd",
+        "decimals": 8,
+        "address": "0xe9d01939688ab022B074Bc6A727f42400C43C4D1\n"
+    },
+    {
+        "pair": "xag-usd",
+        "decimals": 8,
+        "address": "0x116EeB23384451C78ed366D4f67D5AD44eE771A0\n"
+    },
+    {
+        "pair": "xau-usd",
+        "decimals": 8,
+        "address": "0x41e754c5D37b6D259f57d7fc9daEB118fa479b0b\n"
+    },
+    {
+        "pair": "xrp-usd",
+        "decimals": 8,
+        "address": "0x90cBD2122373Ff964AF5B7bCF14ce971b0d5c970\n"
+    },
+    {
+        "pair": "yfii-usd",
+        "decimals": 8,
+        "address": "0xf64EbB7635c8ed885d82fD87544eD2041dEEd8F8"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "pair": "aave-usd",
+        "decimals": 8,
+        "address": "0xc051eCEaFd546e0Eb915a97F4D0643BEd7F98a11\n"
+    },
+    {
+        "pair": "avax-usd",
+        "decimals": 8,
+        "address": "0xCd627aA160A6fA45Eb793D19Ef54f5062F20f33f\n"
+    },
+    {
+        "pair": "btc-usd",
+        "decimals": 8,
+        "address": "0xd9BdB42229F1aefe47Cdf028408272686445D3ff\n"
+    },
+    {
+        "pair": "dai-usd",
+        "decimals": 8,
+        "address": "0xa18B00759bF7659Ad47d618734c8073942faFdEc\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0x7f8847242a530E809E17bF2DA5D2f9d2c4A43261\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0x4e5A8fe9d533dec45C7CB57D548B049785BA9861\n"
+    },
+    {
+        "pair": "matic-usd",
+        "decimals": 8,
+        "address": "0x62FD93Fc58D94eE253542ECD5C23467F65dCdB73\n"
+    },
+    {
+        "pair": "snx-usd",
+        "decimals": 8,
+        "address": "0x38D2f492B4Ef886E71D111c592c9338374e1bd8d\n"
+    },
+    {
+        "pair": "sol-usd",
+        "decimals": 8,
+        "address": "0xF549af21578Cfe2385FFD3488B3039fd9e52f006\n"
+    },
+    {
+        "pair": "tsla-usd",
+        "decimals": 8,
+        "address": "0x4bFa8c47f9521B0E8f48C14b3288c2258c538C49\n"
+    },
+    {
+        "pair": "uni-usd",
+        "decimals": 8,
+        "address": "0xbac904786e476632e75fC6214C797fA80cce9311\n"
+    },
+    {
+        "pair": "usdc-usd",
+        "decimals": 8,
+        "address": "0xb50cBeeFBCE78cDe83F184B275b5E80c4f01006A\n"
+    },
+    {
+        "pair": "usdt-usd",
+        "decimals": 8,
+        "address": "0x4Dab1Dc2409A037d80316F2379Ac767A477C4236\n"
+    },
+    {
+        "pair": "sdefi-usd",
+        "decimals": 8,
+        "address": "0x943525fA16039d7Bcc4CAB020a7E23115DC20736"
+    }
+]

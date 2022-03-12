@@ -1,0 +1,52 @@
+[
+    {
+        "pair": "busd-usd",
+        "decimals": 8,
+        "address": "0xa0ABAcC3162430b67Aa6C135dfAA08E117A38bF0\n"
+    },
+    {
+        "pair": "dai-usd",
+        "decimals": 8,
+        "address": "0x1FA508EB3Ac431f3a9e3958f2623358e07D50fe0\n"
+    },
+    {
+        "pair": "dsla-usd",
+        "decimals": 8,
+        "address": "0x5f0423B1a6935dc5596e7A24d98532b67A0AeFd8\n"
+    },
+    {
+        "pair": "eth-usd",
+        "decimals": 8,
+        "address": "0x4f11696cE92D78165E1F8A9a4192444087a45b64\n"
+    },
+    {
+        "pair": "link-usd",
+        "decimals": 8,
+        "address": "0xcd11Ac8C18f3423c7a9C9d5784B580079A75E69a\n"
+    },
+    {
+        "pair": "one-usd",
+        "decimals": 8,
+        "address": "0xcEe686F89bc0dABAd95AEAAC980aE1d97A075FAD\n"
+    },
+    {
+        "pair": "sushi-usd",
+        "decimals": 8,
+        "address": "0x90142a6930ecF80F1d14943224C56CFe0CD0d347\n"
+    },
+    {
+        "pair": "usdc-usd",
+        "decimals": 8,
+        "address": "0x6F2bD4158F771E120d3692C45Eb482C16f067dec\n"
+    },
+    {
+        "pair": "usdt-usd",
+        "decimals": 8,
+        "address": "0x9A37E1abFC430B9f5E204CA9294809c1AF37F697\n"
+    },
+    {
+        "pair": "wbtc-usd",
+        "decimals": 8,
+        "address": "0xEF637736B220a58C661bfF4b71e03ca898DCC0Bd"
+    }
+]
